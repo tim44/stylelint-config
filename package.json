@@ -1,0 +1,14 @@
+{
+  "name": "stylelint-config",
+  "version": "0.0.1",
+  "description": "Stylelint config",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "author": "Timofey Dyadenko",
+  "license": "ISC"
+}
